@@ -1,0 +1,16 @@
+{
+  "name": "quotes-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kareniel",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.7.1",
+    "restify": "^4.3.0",
+    "thenify-all": "^1.6.0"
+  }
+}
